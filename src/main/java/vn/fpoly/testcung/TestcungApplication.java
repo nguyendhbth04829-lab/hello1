@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class TestcungApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(TestcungApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(TestcungApplication.class, args);
+    }
 
 }
